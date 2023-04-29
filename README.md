@@ -4,7 +4,11 @@ Modern template for **Django** that covers `Admin Section`, all authentication p
 
 > Actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
 
-<br>
+<br />
+
+> UI Kit: https://github.com/app-generator/wp-modernize-bs5
+
+<br />
 
 **Links & Resources**
 
