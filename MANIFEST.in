@@ -1,0 +1,5 @@
+include LICENSE
+include README.rst
+recursive-include admin_modernize/static *
+recursive-include admin_modernize/templates *
+recursive-include docs *
