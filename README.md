@@ -6,10 +6,6 @@ Modern template for **Django** that covers `Admin Section`, all authentication p
 
 <br />
 
-> UI Kit: https://github.com/app-generator/wp-modernize-bs5
-
-<br />
-
 **Links & Resources**
 
 - [Django Admin Modernize](#) - `Product page` (soon)
@@ -21,6 +17,10 @@ Modern template for **Django** that covers `Admin Section`, all authentication p
   - `Registration` page
   - `Misc pages`: colors, icons, typography, blank-page 
   
+<br />
+
+![Modernize - Bootstrap 5 design](https://user-images.githubusercontent.com/51070104/235424939-6b5b1d1d-0832-457a-82a9-599ba532da52.jpg)
+
 <br />
 
 ## Why `Django Admin Modernize`
