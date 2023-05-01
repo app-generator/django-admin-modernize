@@ -8,7 +8,7 @@ Modern template for **Django** that covers `Admin Section`, all authentication p
 
 **Links & Resources**
 
-- [Django Admin Modernize](#) - `Product page` (soon)
+- [Django Modernize](https://django-modernize.onrender.com/) - `LIVE Demo`
   - `Features`: Fully-configured, `CI/CD` via Render
 - UI Kit: [Modernize](https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/?ref=1) by `AdminMart`
 - **Sections Covered**: 
