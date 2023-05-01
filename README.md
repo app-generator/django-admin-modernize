@@ -1,4 +1,4 @@
-# Django Admin Modernize
+# [Django Admin Modernize](https://github.com/app-generator/django-modernize)
 
 Modern template for **Django** that covers `Admin Section`, all authentication pages (registration included) crafted on top of **Modernize**, an open-source `Bootstrap 5` design from [AdminMart](https://adminmart.com/?ref=1).
 
@@ -159,4 +159,4 @@ In a similar way, all other files and components can be customized easily.
 <br />
 
 ---
-**Django Admin Modernize** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**
+**[Django Admin Modernize](https://github.com/app-generator/django-modernize)** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**
