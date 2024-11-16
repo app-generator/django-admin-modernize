@@ -8,14 +8,14 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
 name='django-admin-modernize',
-version='1.0.3',
+version='1.0.4',
 zip_safe=False,
 packages=find_packages(),
 include_package_data=True,
 description='Modern template for Django admin interface',
 long_description=README,
 long_description_content_type="text/markdown",
-url='https://github.com/app-generator/django-modernize',
+url='https://app-generator.dev/docs/products/django-libs/theme-modernize.html',
 author='AppSeed.us',
 author_email='support@appseed.us',
 license='MIT License',
